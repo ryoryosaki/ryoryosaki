@@ -1,6 +1,10 @@
 ### Hi there, I'm ryoryosaki 👋
 
+## 📊 Detailed GitHub Metrics
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryoryosaki/ryoryosaki/output/github-metrics.svg" alt="ryoryosaki's Detailed Metrics" />
+</p>
 ---
 
 I'm an engineer with a solid background in **backend development**, specializing in **Go** and **database systems**. My passion lies in building scalable and reliable systems from the ground up.
